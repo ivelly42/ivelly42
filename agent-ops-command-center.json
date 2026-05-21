@@ -1,0 +1,13 @@
+{
+  "name": "Agent Ops Command Center profile sales surface",
+  "product": "Notion and spreadsheet template pack for AI coding-agent teams",
+  "team_license_price_usd": 203,
+  "target_revenue_usd": 200,
+  "team_request": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
+  "payment_ready_request": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
+  "metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "paid_zip_public": false,
+  "revenue_rule": "Count revenue only after checkout, receipt, payout, or seller-dashboard evidence."
+}

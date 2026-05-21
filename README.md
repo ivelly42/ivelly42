@@ -9,8 +9,13 @@ The public preview is live. The private paid ZIP is delivered only after checkou
 - Team request: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Payment-ready issue: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
+- AI plugin manifest: https://ivelly42.github.io/agent-ops-command-center/.well-known/ai-plugin.json
+- OpenAPI commerce actions: https://ivelly42.github.io/agent-ops-command-center/openapi.json
+- Agent commerce metadata: https://ivelly42.github.io/agent-ops-command-center/.well-known/agent-commerce.json
+- AI buy-intent JSON: https://ivelly42.github.io/agent-ops-command-center/ai-buy-intent.json
 - Catalog: https://ivelly42.github.io/agent-ops-command-center/catalog.json
 - Metrics: https://ivelly42.github.io/agent-ops-command-center/metrics/status.json
+- Latest preview release: https://github.com/ivelly42/agent-ops-command-center/releases/tag/v5.116-preview
 
 ## Offer
 
@@ -30,4 +35,3 @@ The pack helps AI-agent teams keep:
 Do not count profile views, stars, forks, release downloads, issues, comments, discussions, or generated request URLs as revenue.
 
 Revenue counts only when checkout, receipt, payout, or seller-dashboard evidence proves payment.
-

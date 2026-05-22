@@ -10,8 +10,9 @@ The public preview is live. The private paid ZIP is delivered only after checkou
 - Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Payment-ready fallback: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
-- Latest preview release: https://github.com/ivelly42/agent-ops-command-center/releases/tag/v5.141-preview
-- NPM request shortcut: `npm exec --yes --package=https://github.com/ivelly42/agent-ops-command-center/releases/download/v5.141-preview/agent-ops-command-center-0.5.141.tgz -- agent-ops-command-center --team-request-url`
+- Latest preview release: https://github.com/ivelly42/agent-ops-command-center/releases/tag/v5.142-preview
+- NPM request shortcut: `npm exec --yes --package=https://github.com/ivelly42/agent-ops-command-center/releases/download/v5.142-preview/agent-ops-command-center-0.5.142.tgz -- agent-ops-command-center --team-request-url`
+- MCP request Markdown: `get_team_request_markdown`
 - AI plugin manifest: https://ivelly42.github.io/agent-ops-command-center/.well-known/ai-plugin.json
 - OpenAPI commerce actions: https://ivelly42.github.io/agent-ops-command-center/openapi.json
 - Agent commerce metadata: https://ivelly42.github.io/agent-ops-command-center/.well-known/agent-commerce.json

@@ -4,7 +4,7 @@ Proof-first templates for teams running AI coding agents.
 
 The public preview is live. The private paid ZIP is delivered only after checkout, receipt, payout, or seller-dashboard proof exists.
 
-## Fast Request
+## Team Request
 
 - Team request: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
